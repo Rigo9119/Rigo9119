@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Rigo 
+
+I am a Frontend Developer with almost 7 years of experience working in differente kind of projects 🙂, from start ups projects up to more complex and profesional projects. My main stack is mostly Next js and everything releated to the React JS library. Currently on my free time im learning Go and Svelte as well as a little of Postgressql. 
+
 
 <!--
 **Rigo9119/Rigo9119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
