@@ -1,6 +1,6 @@
-### Hi there, my name is Rigo 
+### Hi there, I'm Rigo! 🚀
 
-I am a Frontend Developer with almost 7 years of experience working in differente kind of projects 🙂, from start ups projects up to more complex and profesional projects. My main stack is mostly Next js and everything releated to the React JS library. Currently on my free time im learning Go and Svelte as well as a little of Postgressql. 
+I am a Frontend Developer with nearly 7 years of experience working in a variety kind of projects 🙂, from start ups projects to more complex projects. My main stack is mostly Next.js and the React.js ecosystemIn my free time I am learning Go and Svelte as well as adipping my toes into PostgreSQL. 
 
 
 <!--
