@@ -1,6 +1,23 @@
-### Hi there, I'm Rigo! 🚀
+# Hi, I'm Rigo 👋
 
-I am a Frontend Developer with nearly 8 years of experience working in a variety kind of projects 🙂, from start ups projects to more complex projects. My main stack is mostly Next.js and the React.js ecosystem. Outside of work, I'm mastering Go and Svelte, and I'm getting my feet wet with PostgreSQL. 
+I'm a **Senior Frontend Engineer** with 8+ years of experience building fast, scalable web applications using **React**, **Next.js**, and **TypeScript**.
+
+I've worked with international startups in industries like logistics, healthtech, and edtech — leading UI builds, collaborating closely with product and design teams, and delivering high-impact features in fast-paced environments.
+
+## 🔧 Tech Stack
+- **Frontend**: React, Next.js, TypeScript, Tailwind, MUI, Apollo, GraphQL, Svelte.
+- **Testing**: React Testing Library, Jest, Storybook.
+- **Tools**: Git, Turborepo, Firebase, Supabase.
+
+## 🌍 Based in
+Seoul, South Korea (Open to full-time **remote roles paid in USD** — US or APAC startups)
+
+## 📫 Reach me at
+📧 r.rosero.dev@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/rigo-rosero97)  
+🧑‍💻 [Resume (2025)](link-to-pdf-if-hosted)
+
+Thanks for stopping by!
 
 
 <!--
