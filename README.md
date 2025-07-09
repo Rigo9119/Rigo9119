@@ -15,7 +15,6 @@ Seoul, South Korea (Open to full-time **remote roles paid in USD** — US or APA
 ## 📫 Reach me at
 📧 r.rosero.dev@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/rigo-rosero97)  
-🧑‍💻 [Resume (2025)](link-to-pdf-if-hosted)
 
 Thanks for stopping by!
 
