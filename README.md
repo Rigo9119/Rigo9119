@@ -10,7 +10,7 @@ I've worked with international startups in industries like logistics, healthtech
 - **Tools**: Git, Turborepo, Firebase, Supabase.
 
 ## 🌍 Based in
-Seoul, South Korea (Open to full-time **remote roles paid in USD** — US or APAC startups)
+Seoul, South Korea (Open to full-time **remote roles US or APAC startups)
 
 ## 📫 Reach me at
 📧 r.rosero.dev@gmail.com  
