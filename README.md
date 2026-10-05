@@ -8,10 +8,10 @@ I've worked with international startups in industries like logistics, healthtech
 - **Frontend**: React, Next.js, TypeScript, Tailwind, MUI, Apollo, GraphQL, Svelte.
 - **Testing**: React Testing Library, Jest, Storybook.
 - **Tools**: Git, Turborepo, Firebase, Supabase.
-
+<!--
 ## 🌍 Based in
 Seoul, South Korea (Open to full-time **remote roles)
-
+-->
 ## 📫 Reach me at
 📧 r.rosero.dev@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/rigo-rosero97)  
